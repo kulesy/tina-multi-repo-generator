@@ -1,0 +1,7 @@
+node_modules/
+.tina/
+.env
+.env.local
+dist/
+public/admin/
+.DS_Store

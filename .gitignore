@@ -6,4 +6,8 @@ dist/
 public/admin/
 .DS_Store
 
+# Next.js
+.next/
+out/
+
 # Note: tina/__generated__/ is committed (needed for multi-repo)

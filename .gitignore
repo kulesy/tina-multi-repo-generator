@@ -5,3 +5,5 @@ node_modules/
 dist/
 public/admin/
 .DS_Store
+
+# Note: tina/__generated__/ is committed (needed for multi-repo)
